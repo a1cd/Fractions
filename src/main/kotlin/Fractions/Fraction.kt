@@ -1,0 +1,5 @@
+package Fractions
+
+class Fraction {
+
+}
